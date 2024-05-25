@@ -1,0 +1,58 @@
+body{
+	background: url(image/connectwork.png);
+}
+
+
+.container{
+	width: 450px;
+	margin: auto;
+}
+
+.form{
+	background-color: white;
+	padding: 35px;
+	border-radius: 20px; 
+	border: 4px solid lightblue;
+	margin-top: 32.5%;
+}
+
+h1{
+	text-align: center;
+	color: lightblue;
+}
+
+
+input[type=text] {
+	width: 100%;
+	height: 25px;
+	text-align: center;
+	border-radius: 5px;
+	background-color: rgba(0,0,0,0.1);
+	color: black;
+	border: 3px solid lightblue;
+}
+
+input[type=password] {
+	width: 100%;
+	height: 25px;
+	text-align: center;
+	border-radius: 5px;
+	background-color: rgba(0,0,0,0.1);
+	color: black;
+	border: 3px solid lightblue;
+}
+
+
+button[type=login]{
+	background-color: white;
+	border-radius: 10px;
+	border: 2px solid lightblue;
+	padding: 7px 30px;
+	margin: 0 40%;
+	cursor: pointer;
+}
+
+button[type=login]:hover{
+	background-color: lightblue;
+}
+

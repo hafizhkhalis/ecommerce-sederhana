@@ -1,0 +1,28 @@
+* {
+  margin: auto;
+}
+
+nav {
+  background-color: black;
+  padding: 30px;
+  opacity: 80%;
+}
+a {
+  color: skyblue;
+  margin: 10px;
+  text-decoration: none;
+  padding: 10px;
+}
+a:hover {
+  background-color: white;
+  border-radius: 5px;
+  padding: 10px;
+}
+
+table {
+  margin: 0;
+}
+
+form {
+  margin: 0;
+}
